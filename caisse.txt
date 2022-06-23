@@ -1,0 +1,8 @@
+Enoncé : tu es à la caisse et tu veux acheter différentes choses.
+- Affiche les articles que tu veux encaisser : lait, saucisson, croquettes
+- Affiche ton porte monnaie, qui a une valeur de 50e
+- Demande à l'utilisateur 3 valeurs pour les 3 prix différents (prix pour lait, saucisson et croquettes)
+- Si, quand les trois articles sont pris en compte, le porte monnaie passe en négatif, alors tu annules la transaction
+- Sinon, tu valides la transaction
+- Si la transaction a été annulée, tu préviens l'utilisateur
+- Sinon, tu affiches le nouveau solde de son porte-monnaie
