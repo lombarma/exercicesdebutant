@@ -1,0 +1,10 @@
+Ecrire un programme qui demande a l'utilisateur d'entrer un nombre entier et ensuite de lister tous les nombres pairs
+qui sont situés entre 1 et ce nombre entier. Ex : n = 11, les pairs sont 2 4 6 8 10
+
+Indice : pour verifier qu'un nombre est pair ou non :
+
+a = 5
+if a%2==0:
+    print("est_pair")
+
+En gros si l'instruction a%2==0 est vraie, alors c'est un nombre pair. Il faut te servir de ca.

@@ -1,0 +1,12 @@
+ici, l'utilisateur saisit un nombre n et il faut afficher deux choses : la somme de 0 à n, et la factorielle de 1 à n mais attention avec la factorielle : tu la connais, si n = 0 alors n! = 1
+
+je veux que l'affiche soit comme ça :
+
+La somme des nombres entre 0 et n (remplace n par sa valeur dcp) est : (sa valeur)
+La factorielle du nombre n est : n! = (sa valeur)
+
+
+Pour que tu vois un truc :
+Quand tu auras fini et que tu penses que ton code fonctionne (cad essaie avec des valeurs pas trop grandes et dont tu connais le resultat) :
+Essaies de rentrer une valeur genre 999999999 un nombre bien gros quoi, c'est la que tu verras les limites de la vitesse d'execution d'un programme en language interpreté
+Tu verras que c'est super long à tourner, et tu te rends comptes que python est super long, car le même programme en java ou en C n'prendrait pas plus d'une seconde à afficher la réponse.
